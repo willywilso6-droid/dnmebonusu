@@ -1,18 +1,5 @@
 User-agent: *
 Allow: /
 
-# Sitemap
-Sitemap: https://betesen.com/sitemap.xml
+Sitemap: https://denemebonusu1.vercel.app/sitemap.xml
 
-# Googlebot için özel ayarlar
-User-agent: Googlebot
-Allow: /
-Crawl-delay: 1
-
-# Bing için özel ayarlar
-User-agent: Bingbot
-Allow: /
-Crawl-delay: 1
-
-# Hızlı indexleme için
-# Google Search Console'da sitemap gönderimi yapın
